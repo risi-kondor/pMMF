@@ -1,0 +1,8 @@
+CC= clang
+MEX= mex
+EIGENDIR= /usr/local/include
+MATIO= /usr/local/
+
+#CC= g++ -fPIC
+#EIGENDIR= $(HOME)/eigen
+#MATIO= $(HOME)/matio
