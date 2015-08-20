@@ -1,7 +1,4 @@
-    <script type="text/javascript"
-      src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'>
-    </script>
-
+ 
 
 # pMMF
 
@@ -22,7 +19,6 @@ Certain features of pMMF also require the following:<br>
 
 ## FAQ
 
-<\[Q_L \ldots Q_2\, Q_1\hspace{.1em} A\hspace{.1em} Q_1^\top Q_2^\top \ldots Q_L^\top\approx H\]>
 
 
 <ul>
