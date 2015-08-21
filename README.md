@@ -8,7 +8,7 @@ Authors:  [Risi Kondor](http://people.cs.uchicago.edu/~risi/), [Nedelina Teneva]
 Documentation: [soon]<br>
 Gallery: [[gallery]](http://people.cs.uchicago.edu/~risi/MMF/gallery.html)<br>
 BibTeX entry: [[bib]](http://people.cs.uchicago.edu/~risi/MMF/pMMF.bib)<br>
-Help/support: email pMMF.library at gmail.com<br>
+Help/support email: pMMF.library at gmail.com<br>
 
 ## Dependencies
 
