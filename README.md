@@ -37,9 +37,10 @@ pMMF is a fast concurrent algorithm for finding MMF factorizations. Empirially, 
 </li>
 
 <li><b>Where can I read more about it?</b>
-
-R. Kondor, N. Teneva and V. Garg: [Multiresolution Matrix Factorization](http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.pdf) (ICML 2014) [supplement](http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.supplement.pdf) [video](http://techtalks.tv/talks/multiresolution-matrix-factorization/61063/)
-R. Kondor, N. Teneva and P. K. Mudrakarta: [Parallel MMF: a Multiresolution Approach to Matrix Computation](http://arxiv.org/abs/1507.04396) (preprint, July 2015)
+<ul>
+<li>R. Kondor, N. Teneva and V. Garg: <a href="http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.pdf">Multiresolution Matrix Factorization</a> (ICML 2014) <a href="http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.supplement.pdf">[supplement]</a>  <a href="http://techtalks.tv/talks/multiresolution-matrix-factorization/61063/">[video]</a></li>
+<li>R. Kondor, N. Teneva and P. K. Mudrakarta: <a href="http://arxiv.org/abs/1507.04396">Parallel MMF: a Multiresolution Approach to Matrix Computation</a> (preprint, July 2015)</li>
+</ul>
 </li>
 </ul>
 
