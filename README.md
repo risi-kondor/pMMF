@@ -23,7 +23,7 @@ Certain features of pMMF also require the following:<br>
 
 
 <ul>
-<li>What is MMF used for?
+<li><b>What is MMF used for?</b>
 <ul>
 <li><b>Matrix compression/sketching</b> by providing a good quality low dimensional approximation to huge matrices, especially those arising in machine learning problems.</li>
 <li><b>Preconditioning</b> to accelerate the solution of large linear systems.</li>
@@ -31,12 +31,12 @@ Certain features of pMMF also require the following:<br>
 <li><b>Data analysis</b> by helping to uncover the structure of A itself, for example, when A is the adjacency matrix of a complex network.</li>
 </ul>
 
-<li>What is Parallel MMF (pMMF)?
+<li><b>What is Parallel MMF (pMMF)?</b>
 
 pMMF is a fast concurrent algorithm for finding MMF factorizations. Empirially, on many classes of naturally occurring sparse matrices, pMMF runs in time close to linear in n.
 </li>
 
-<li>Where can I read more about it?
+<li><b>Where can I read more about it?</b>
 
 R. Kondor, N. Teneva and V. Garg: [Multiresolution Matrix Factorization](http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.pdf) (ICML 2014) [supplement](http://people.cs.uchicago.edu/~risi/papers/KondorTenevaGargICML2014.supplement.pdf) [video](http://techtalks.tv/talks/multiresolution-matrix-factorization/61063/)
 R. Kondor, N. Teneva and P. K. Mudrakarta: [Parallel MMF: a Multiresolution Approach to Matrix Computation](http://arxiv.org/abs/1507.04396) (preprint, July 2015)
