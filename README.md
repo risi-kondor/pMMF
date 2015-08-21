@@ -5,10 +5,10 @@
 A high performance, open source, parallel MMF library written in C++.<br>
 Authors:  [Risi Kondor](http://people.cs.uchicago.edu/~risi/), [Nedelina Teneva](http://people.cs.uchicago.edu/~nteneva/) and [Pramod K. Mudrakarta](https://www.cs.uchicago.edu/directory/pramod-kaushik-mudrakarta).
 
-Documentation: [soon]<br>
-Gallery: [[gallery]](http://people.cs.uchicago.edu/~risi/MMF/gallery.html)<br>
-BibTeX entry: [[bib]](http://people.cs.uchicago.edu/~risi/MMF/pMMF.bib)<br>
-Help/support email: pMMF.library at gmail.com<br>
+Documentation:&nbsp; [soon]<br>
+Gallery:&nbsp; [[gallery]](http://people.cs.uchicago.edu/~risi/MMF/gallery.html)<br>
+BibTeX entry:&nbsp; [[bib]](http://people.cs.uchicago.edu/~risi/MMF/pMMF.bib)<br>
+Help/support email:&nbsp; pMMF.library at gmail.com<br>
 
 ## Dependencies
 
