@@ -177,7 +177,7 @@ VECTOR MMF::project(const VECTOR& v, const double eps) const {
 // --- MMF computation --------------------------------------------------------------------------------
 template<class BLOCK>
 MMF::MMF(const BLOCK& M, const MMFparams& params) {
-	const MMFmatrix<BLOCK> B(const_cast<BLOCK>(M), true, true);
+	const MMFmatrix<BLOCK> B(const_cast<BLOCK&>(M), true, true);
 	*this = MMF(B, params);
 }
 
